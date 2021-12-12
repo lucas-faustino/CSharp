@@ -1,0 +1,9 @@
+C:\Users\Fulgore\source\repos\NamelessEngine\NamelessEngine\bin\Debug\NamelessEngine.dll
+C:\Users\Fulgore\source\repos\NamelessEngine\NamelessEngine\bin\Debug\NamelessEngine.pdb
+C:\Users\Fulgore\source\repos\NamelessEngine\NamelessEngine\bin\Debug\FNA.dll
+C:\Users\Fulgore\source\repos\NamelessEngine\NamelessEngine\bin\Debug\FNA.dll.config
+C:\Users\Fulgore\source\repos\NamelessEngine\NamelessEngine\obj\Debug\NamelessEngine.csprojAssemblyReference.cache
+C:\Users\Fulgore\source\repos\NamelessEngine\NamelessEngine\obj\Debug\NamelessEngine.csproj.CoreCompileInputs.cache
+C:\Users\Fulgore\source\repos\NamelessEngine\NamelessEngine\obj\Debug\NamelessEngine.csproj.CopyComplete
+C:\Users\Fulgore\source\repos\NamelessEngine\NamelessEngine\obj\Debug\NamelessEngine.dll
+C:\Users\Fulgore\source\repos\NamelessEngine\NamelessEngine\obj\Debug\NamelessEngine.pdb
