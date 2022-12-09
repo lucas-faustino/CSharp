@@ -2,7 +2,7 @@
 
 namespace NamelessEngine
 {
-    // this is so we can change the int type easily without having to go through and change it at every place
+    // this is so we can change the int type easily
     // (we may realize that u32 will better in the future)
     using GenerationalInt = System.UInt16;
 
